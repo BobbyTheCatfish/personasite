@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.b5c71236.js",
-    "static/js/787.458e52fa.chunk.js": "/static/js/787.458e52fa.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.b5c71236.js.map": "/static/js/main.b5c71236.js.map",
-    "787.458e52fa.chunk.js.map": "/static/js/787.458e52fa.chunk.js.map"
+    "main.css": "https://persona.bobbythecat.fish/static/css/main.073c9b0a.css",
+    "main.js": "https://persona.bobbythecat.fish/static/js/main.aa36b66c.js",
+    "static/js/787.458e52fa.chunk.js": "https://persona.bobbythecat.fish/static/js/787.458e52fa.chunk.js",
+    "index.html": "https://persona.bobbythecat.fish/index.html",
+    "main.073c9b0a.css.map": "https://persona.bobbythecat.fish/static/css/main.073c9b0a.css.map",
+    "main.aa36b66c.js.map": "https://persona.bobbythecat.fish/static/js/main.aa36b66c.js.map",
+    "787.458e52fa.chunk.js.map": "https://persona.bobbythecat.fish/static/js/787.458e52fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b5c71236.js"
+    "static/js/main.aa36b66c.js"
   ]
 }
