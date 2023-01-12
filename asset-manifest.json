@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://persona.bobbythecat.fish/static/css/main.073c9b0a.css",
-    "main.js": "https://persona.bobbythecat.fish/static/js/main.f8a99f45.js",
+    "main.js": "https://persona.bobbythecat.fish/static/js/main.b32ce087.js",
     "static/js/787.458e52fa.chunk.js": "https://persona.bobbythecat.fish/static/js/787.458e52fa.chunk.js",
     "index.html": "https://persona.bobbythecat.fish/index.html",
     "main.073c9b0a.css.map": "https://persona.bobbythecat.fish/static/css/main.073c9b0a.css.map",
-    "main.f8a99f45.js.map": "https://persona.bobbythecat.fish/static/js/main.f8a99f45.js.map",
+    "main.b32ce087.js.map": "https://persona.bobbythecat.fish/static/js/main.b32ce087.js.map",
     "787.458e52fa.chunk.js.map": "https://persona.bobbythecat.fish/static/js/787.458e52fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f8a99f45.js"
+    "static/js/main.b32ce087.js"
   ]
 }
